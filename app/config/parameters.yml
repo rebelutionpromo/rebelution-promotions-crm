@@ -1,0 +1,15 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: rebeluti_crm
+    database_user: rebeluti_crm
+    database_password: bBUHmk5pZpqm
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 016da730643c9da6bfb181709fcc76fe43d439fb
+    site_name: 'Rebelution Promotions'
+    site_domain: crm.rebelutionpromotions.com
+    site_email: rebelution@fatguyconsulting.com
