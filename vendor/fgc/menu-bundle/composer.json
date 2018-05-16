@@ -1,0 +1,29 @@
+{
+  "name": "fgc/menu-bundle",
+  "description": "A simple yet robust menu generator for Symfony3",
+  "keywords": ["menu", "symfony", "simple"],
+  "type": "symfony-bundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fat Guy Consulting, Inc.",
+      "homepage": "http://fatguyconsulting.com"
+    },
+    {
+      "name": "Tyson Green",
+      "email": "dev@fatguyconsulting.com"
+    },
+    {
+      "name": "Symfony Community",
+      "homepage": "https://github.com/fatguytyson/menu-bundle/contributors"
+    }
+  ],
+  "require": {
+    "symfony/framework-bundle": "~3.0",
+    "twig/twig": "^2.0",
+    "doctrine/common": "*"
+  },
+  "autoload": {
+    "psr-4": {"FGC\\MenuBundle\\": ""}
+  }
+}
